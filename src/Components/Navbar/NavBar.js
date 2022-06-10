@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className='flex flex-row justify-around sticky top-0'>
             <div className='flex gap-4 text-xl'>
                 <Link to='/'>Home</Link>
-                <Link to='/line_chart'>Line Chart</Link>
+                <Link to='/dash_chart'>Dash Chart</Link>
                 <Link to="/bar_chart">Bar Chart</Link>
                 <Link to="/area_chart">Area Chart</Link>
                 <Link to="/pie_chart">Pie Chart</Link>
